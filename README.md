@@ -7,8 +7,7 @@ It is important for companies to optimize their search engine optimization (SEO)
 
 ![Alt text](./Develop/assets/images/01-html-css-git-homework-demo.png "Website Preview")
 
-Click [here] to visit the website.
-
+Click [here](https://kristacannady.github.io/urban-octo-telegram-main/) to visit the website. 
 
 ## Prerequisites
 
